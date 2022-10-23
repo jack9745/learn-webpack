@@ -1,0 +1,13 @@
+.hello {
+  width: 200px;
+  height: 200px;
+  color: red;
+  background-color: green;
+  border: 2px solid #ccc;
+}
+
+.btn {
+  display: block;
+  width: 100px;
+  height: 100px;
+}
